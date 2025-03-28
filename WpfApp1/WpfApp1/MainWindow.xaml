@@ -13,5 +13,11 @@
                 Content="кнопка"
                 />
 
+        <Button x:Name="sd"
+                Height="100"
+                Width="100"
+                Content="кнопка 2"
+                />
+
     </Grid>
 </Window>
